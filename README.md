@@ -61,7 +61,7 @@ The notes and code in this repository leverage the following technologies:
 
 1.  Clone the repository:
     ```bash
-    git clone [Your Repository URL]
+    gh repo clone alensomaxx/Applied-Deep-Learning-Curriculum-Notes
     ```
 2.  Navigate through the file structure, which is numerically prefixed to follow the curriculum order.
 3.  Start with the introductory Python and Pandas notes before moving to the deep learning implementations.
